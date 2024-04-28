@@ -36,9 +36,9 @@
 
 - 💬 Pergute-meu sobre: **Python, backend, Sql, Algoritimo.**
 
-- 📫 Pode falar comigo por **edilsonmn@yahoo.com.br.**
+- 📫 Pode falar comigo por **edilsonmn@yahoo.com.br**
 
-- 🏠Não Hesite em entrar em contato **👋** no Discord –  edilson2077
+- 🏠Não Hesite entrar em contato **👋** no Discord –  edilson2077
 <!--Intro end-->
 
 
@@ -111,7 +111,7 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Eddy8080&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
 
