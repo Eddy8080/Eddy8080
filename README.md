@@ -28,15 +28,15 @@
 <!--Intro start-->
 - 🔭 Atualmante universitário em Análise e desenvolvimento de sistemas.
 
-- 🌱 Atualmente estou aprendendo **Git, GitHub, Python,SQL,Engenharia de software, ITIL4**
+- 🌱 Atualmente estou aprendendo **Git, GitHub, Python,SQL,Engenharia de software, ITIL4.**
 
-- ☁️ Tenho grande interesse em aprender backend por isso estou aprendendo  **Python**
+- ☁️ Tenho grande interesse em aprender backend por isso estou aprendendo  **Python.**
 
 - 📝 Atualmente estou lendo: Python direto ao ponto, autor: Estevão.
 
-- 💬 Ask me about **AWS, react, react-native, nodejs, mongoDB**
+- 💬 Pergute-meu sobre: **Python, backend, Sql, Algoritimo.**
 
-- 📫 Pode falar comigo por **edilsonmn@yahoo.com.br**
+- 📫 Pode falar comigo por **edilsonmn@yahoo.com.br.**
 
 - 🏠Não Hesite em entrar em contato **👋** no Discord –  edilson2077
 <!--Intro end-->
