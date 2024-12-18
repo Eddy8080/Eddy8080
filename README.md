@@ -28,13 +28,13 @@
 <!--Intro start-->
 - 🔭 Atualmante universitário em Análise e desenvolvimento de sistemas.
 
-- 🌱 Atualmente estou aprendendo **Git, GitHub, Python,SQL,Engenharia de software, ITIL4.**
+- 🌱 Atualmente estou aprendendo **Git, GitHub, Python,Kotlin, SQL,Engenharia de software, ITIL4.**
 
-- ☁️ Tenho grande interesse em aprender backend por isso estou aprendendo  **Python.**
+- ☁️ Tenho grande interesse em aprender backend por isso estou estudando  **Python e Kotlin.**
 
-- 📝 Atualmente estou lendo: Python direto ao ponto, autor: Estevão.
+- 📝 Atualmente estou lendo: Python direto ao ponto, autor: Estevão e Programador Pragmário autores: Andy Hunt e Dave Thomas.
 
-- 💬 Pergute-meu sobre: **Python, backend, Sql, Algoritimo.**
+- 💬 Pergute-meu sobre: **Python,Kotlin, backend, Sql, Algoritimo.**
 
 - 📫 Pode falar comigo por **edilsonmn@yahoo.com.br**
 
