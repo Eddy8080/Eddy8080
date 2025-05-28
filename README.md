@@ -12,7 +12,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="resources/grid-snake.svg"
+  <img  src="https://github.com/Platane/snk.git"
        alt="snake" /></a>
 </div>
 
