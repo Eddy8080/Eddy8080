@@ -32,7 +32,7 @@
 
 - ☁️ Tenho grande interesse em aprender backend por isso estou estudando  **Python e Kotlin.**
 
-- 📝 Atualmente estou lendo: Python direto ao ponto, autor: Estevão e Programador Pragmário autores: Andy Hunt e Dave Thomas.
+- 📝 Atualmente estou lendo: Python direto ao ponto, autor: Estevão e Programador Pragmático autores: Andy Hunt e Dave Thomas.
 
 - 💬 Pergute-meu sobre: **Python,Kotlin, backend, Sql, Algoritimo.**
 
