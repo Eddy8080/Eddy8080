@@ -1,6 +1,6 @@
 
 <!--horizontal divider(gradiant)-->
-<img src="resources/grid-snake.svg">
+<img src="https://files.fm/u/tvjs9zj73d">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
@@ -12,7 +12,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://github.com/Platane/snk.git"
+  <img  src=""
        alt="snake" /></a>
 </div>
 
