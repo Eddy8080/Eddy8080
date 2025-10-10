@@ -26,15 +26,15 @@
 
 
 <!--Intro start-->
-- 🔭 Atualmante universitário em Análise e desenvolvimento de sistemas.
+- 🔭 Formado em Análise e desenvolvimernto de sistemas.
 
-- 🌱 Atualmente estou aprendendo **Git, GitHub, Python,Kotlin, SQL,Engenharia de software, ITIL4.**
+- 🌱 Pós graduando em Cência de dados.**
 
-- ☁️ Tenho grande interesse em aprender backend por isso estou estudando  **Python e Kotlin.**
+- ☁️ Tenho grande interesse em aprender backend por isso estudei python, me aprofundando em banmco de dados e em IA.**
 
-- 📝 Atualmente estou lendo: Python direto ao ponto, autor: Estevão e Programador Pragmático autores: Andy Hunt e Dave Thomas.
+- 📝 Atualmente estou lendo Algoritimos e Lógica de programação, estou lendo o programador Pragmático autores: Andy Hunt e Dave Thomas.
 
-- 💬 Pergute-meu sobre: **Python,Kotlin, backend, Sql, Algoritimo.**
+- 💬 Pergute-meu sobre: **Python, backend, Sql, Algoritimo Python .**
 
 - 📫 Pode falar comigo por **edilsonmn@yahoo.com.br**
 
