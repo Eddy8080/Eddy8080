@@ -30,9 +30,9 @@
 
 - 🌱 Pós graduando em Cência de dados.**
 
-- ☁️ Tenho grande interesse em aprender backend por isso estudei python, me aprofundando em banmco de dados e em IA.**
+- ☁️ Tenho grande interesse em aprender backend por isso continuo estudando e aplicando python, me aprofundando em banco de dados e em IA.**
 
-- 📝 Atualmente estou lendo Algoritimos e Lógica de programação, estou lendo o programador Pragmático autores: Andy Hunt e Dave Thomas.
+- 📝 Atualmente estou lendo Algoritimos e Lógica de programação, estou lendo o programador Pragmático autores: Andy Hunt e Dave Thomas e Use a Cabeça SQL
 
 - 💬 Pergute-meu sobre: **Python, backend, Sql, Algoritimo Python .**
 
