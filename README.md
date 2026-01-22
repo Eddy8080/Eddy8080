@@ -1,4 +1,3 @@
-
 <!--horizontal divider(gradiant)-->
 <img src="https://files.fm/u/tvjs9zj73d">
 
@@ -12,8 +11,7 @@
 
 <!--- snake -->
 <div align="center">
-  <img  src="https://files.fm/u/tvjs9zj73d"
-       alt="snake" /></a>
+  <img src="https://github.com" alt="snake" />
 </div>
 
 
@@ -34,9 +32,9 @@
 
 - 📝 Atualmente estou lendo Algoritimos e Lógica de programação, estou lendo o programador Pragmático autores: Andy Hunt e Dave Thomas e Use a Cabeça SQL
 
-- 💬 Pergute-meu sobre: **Python, backend, Sql, Algoritimo Python .**
+- 💬 Pergute-meu sobre: **Python, backend, Sql, Algoritimo IA .**
 
-- 📫 Pode falar comigo por **edilsonmn@yahoo.com.br**
+- 📫 Pode falar comigo por **edilsonmn@softwareit.net.br**
 
 - 🏠Não Hesite entrar em contato **👋** no Discord –  edilson2077
 <!--Intro end-->
@@ -57,7 +55,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Eddy8080&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Eddy8080&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10""")/>>
   
   </td>
 </tr>
@@ -122,4 +120,4 @@
 ----------------------------------------------------------------------
 Credito: [Eddy8080](https://github.com/Eddy8080)
 
-Editado em: 28/4/2024
+Editado em: 22/01/2026
