@@ -49,14 +49,19 @@ Foco: Desenvolvimento de Software e Integração de Sistemas.
 </p>
 
 <p align="left">
-  <a href="#" title="Gmail">
-  
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link="www.linkedin.com/in/edilsonmonteironeto alt=""LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link="https://wa.me/message/LGYS6XSEVGRBK1 alt="WhatsApp"/></a>
-  <a href="#" title="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link="https://www.facebook.com/profile.php?id=61585966803345 alt="Facebook"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link="https://www.instagram.com/softwareit25/ alt="Instagram"/></a>
+  <a href="https://www.linkedin.com/in/edilsonmonteironeto" target="_blank" title="LinkedIn">
+    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="https://wa.me/message/LGYS6XSEVGRBK1" target="_blank" title="WhatsApp">
+    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+
+  <a href="https://www.facebook.com/profile.php?id=61585966803345" target="_blank" title="Facebook">
+    <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+
+  <a href="https://www.instagram.com/softwareit25/" target="_blank" title="Instagram">
+    <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
 </p>
