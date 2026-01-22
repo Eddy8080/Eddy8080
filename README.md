@@ -1,123 +1,31 @@
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Olá 👋, Eu sou o Edilson</h1></summary>
-  </ul>
-</div>
-
-
-<!--- snake -->
-<div align="center">
-  <img src="https://github.com" alt="snake" />
-</div>
-
-
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">É dentro do caos que a programação é organizada</h2></summary>
-  </ul>
-</div>
-
-
-<!--Intro start-->
-- 🔭 Formado em Análise e desenvolvimernto de sistemas.
-
-- 🌱 Pós graduando em Cência de dados.**
-
-- ☁️ Tenho grande interesse em aprender backend por isso continuo estudando e aplicando python, me aprofundando em banco de dados e em IA.**
-
-- 📝 Atualmente estou lendo Algoritimos e Lógica de programação, estou lendo o programador Pragmático autores: Andy Hunt e Dave Thomas e Use a Cabeça SQL
-
-- 💬 Pergute-meu sobre: **Python, backend, Sql, Algoritimo IA .**
-
-- 📫 Pode falar comigo por **edilsonmn@softwareit.net.br**
-
-- 🏠Não Hesite entrar em contato **👋** no Discord –  edilson2077
-<!--Intro end-->
-
-
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com" /> 
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app""")/>>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app" alt="TROPHY" />
-    </a>
-</div>
-<!--- trophy (start) -->
-
-
-</p>        
-<!--- stats (end) -->
-
-
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Tecnologias que eu conheço👨🏻‍💻</h2></summary>
-  </ul>
-</div>
-<!--tech stack icons-->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev" />
-  </a>
+<p align="left"> 
+  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
+  Diga o que você está fazendo no momento, se trabalha ou estuda.
 </p>
 
-
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h2 style="display: inline-block">Conecte-se comigo🤝</h2></summary>
-  </ul>
-</div>
-
-<!--icons and links-->
-<p align="center">
-<a href="https://www.linkedin.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com" alt="linkedin" height="50" width="50" /></a>
-<a href="https://www.instagram.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com" alt="instagram" height="50" width="50" /></a>
-
-  
+<p align="left">
+  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
 </p>
 
+<p align="left">
+  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+</p>
 
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in)](https://visitcount.itsvg.in)
-  
-</div>
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
 
-
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com">
-
-----------------------------------------------------------------------
-Credito: [Eddy8080](https://github.com)
-
-Editado em: 28/4/2024
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
+  <a href="#" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
+  <a href="#" title="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+</p>
