@@ -52,7 +52,7 @@ Foco: Desenvolvimento de Software e Integração de Sistemas.
   <a href="#" title="Gmail">
   
   <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link="www.linkedin.com/in/edilsonmonteironeto alt="LinkedIn"/></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link="www.linkedin.com/in/edilsonmonteironeto alt=""LinkedIn"/></a>
   <a href="#" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link="https://wa.me/message/LGYS6XSEVGRBK1 alt="WhatsApp"/></a>
   <a href="#" title="Facebook">
