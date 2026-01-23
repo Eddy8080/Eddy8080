@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá, eu sou o Edilson! 👋
-Sou um desenvolvedor apaixonado por resolver problemas através da tecnologia, com longa experiência em infraestrutura e desenvolvimento.
+Sou um desenvolvedor apaixonado por resolver problemas através da tecnologia, com longa experiência em TI.
 
 🔭 No que estou trabalhando: Atualmente focado na Software IT, desenvolvendo o Smart Sync v3.0 (IA).
 
