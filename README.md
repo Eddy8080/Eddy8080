@@ -4,7 +4,7 @@
   Olá, eu sou o Edilson! 👋
 Sou um desenvolvedor apaixonado por resolver problemas através da tecnologia, com longa experiência em TI.
 
-🔭 No que estou trabalhando: Atualmente focado na Software IT, desenvolvendo o Smart Sync v3.0 (IA).
+🔭 No que estou trabalhando: Atualmente focado na Software IT, desenvolvendo o Anagma IT -  Sync v3.0 (IA).
 
 🎓 Estudos atuais: Pós-graduando em Ciência de Dados.
 
