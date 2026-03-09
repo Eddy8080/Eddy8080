@@ -5,10 +5,11 @@
 Sou um desenvolvedor apaixonado por resolver problemas através da tecnologia, com longa experiência em TI.
 
 🔭 No que estou trabalhando: Atualmente focado na Software IT, desenvolvendo o Anagma IT -  Sync v3.0 (IA).
+🔭 No que estou trabalhando: Sistemas de contabilidade Taxa de Fiscalização de Funcionamento (TFF).                           
 
 🎓 Estudos atuais: Pós-graduando em Ciência de Dados.
 
-🛠 Minha Stack: - Linguagem/Framework: Python, Django.
+🛠 Minha Stack: - Linguagem/Framework: Python, Django, CSS, JavaScript
 
 Automação: Make, Zapier.
 
