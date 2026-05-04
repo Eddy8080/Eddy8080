@@ -1,17 +1,31 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá, eu sou o Edilson! 👋
-Sou um desenvolvedor apaixonado por resolver problemas através da tecnologia, com longa experiência em TI.
+ Olá, eu sou o Edilson! 👋 Sou um desenvolvedor apaixonado por resolver problemas através da tecnologia, com longa experiência em TI.
 
-🔭 No que estou trabalhando: Atualmente focado na Software IT, desenvolvendo o Anagma IT -  Sync v3.0 (IA).
-    Sistemas de contabilidade Taxa de Fiscalização de Funcionamento (TFF).                           
+🔭 No que estou trabalhando: Atualmente focado na Software IT, desenvolvendo o Anagma IT - Sync v3.0 (IA). Sistemas de contabilidade Taxa de Fiscalização de Funcionamento (TFF).
+                              DigIAna modelo LLM especializado em contabilidade, projeto em SaaS para multi acessos.
 
-🎓 Estudos atuais: Pós-graduando em Ciência de Dados.
+                              
+🎓 Estudos atuais: Pós-graduando em Ciência de Dados(PUC) e IA(UNIFACS).
 
 🛠 Minha Stack: - Linguagem/Framework: Python, Django, CSS, JavaScript
 
 Automação: Make, Zapier.
+
+Foco: Desenvolvimento de Software e Integração de Sistemas.
+
+Edilson Monteiro Neto
+Software IT |
+Stack: Python • Django • Data Science
+E-mail: edilsonmn@softwareit.net.br
+Web: softwareit.net.br
+⚡ Curiosidade: Tenho uma base sólida em hardware, o que me permite criar pontas eficientes entre o mundo físico e o digital.
+
+🦄 Linguagens: **Python.**
+
+💼 Ferramentas: **Python -Django-Pytest-Make-Zaoier-Ciência de Dados-Git/GitHub.**
+
 
 Foco: Desenvolvimento de Software e Integração de Sistemas.
 <div style="font-family: Arial, sans-serif; line-height: 1.5; color: #333333; max-width: 400px;">
@@ -38,7 +52,7 @@ Foco: Desenvolvimento de Software e Integração de Sistemas.
 </p>
 
 <p align="left">
-  🦄 Linguagens: **Python.**
+  🦄 Linguagens: **Python.Java Script.Kotlin**
 </p>
 
 <p align="left">
