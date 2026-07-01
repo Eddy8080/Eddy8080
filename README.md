@@ -19,7 +19,7 @@ Edilson Monteiro Neto
 Software IT |
 Stack: Python • Django • Data Science
 E-mail: edilsonmn@softwareit.net.br
-Web: softwareit.net.br
+Web: https://software-it.netlify.app/
 ⚡ Curiosidade: Tenho uma base sólida em hardware, o que me permite criar pontas eficientes entre o mundo físico e o digital.
 
 🦄 Linguagens: **Python.**
